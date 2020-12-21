@@ -5,7 +5,6 @@ namespace Majkl578\NetteAddons\Doctrine2Identity\DI;
 use Nette\Configurator;
 use Nette\DI\Compiler;
 use Nette\DI\CompilerExtension;
-use Nette\Loaders\NetteLoader;
 
 /**
  * @author Michael Moravec
